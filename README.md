@@ -8,6 +8,9 @@ Este projeto criou uma pequena versão da mesma, utilizando os 151 pokemons orig
 
 ## Visualização
 
+![Home Page](/../master/Visuals/home_01.PNG)
+
+![Search](/../master/Visuals/seach_01.PNG)
 
 ### Project setup
 ```
